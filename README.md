@@ -1,5 +1,4 @@
 [![Docker Repository on Quay.io](https://quay.io/repository/collaboratory/dockstore-tool-bamstats/status "Docker Repository on Quay.io")](https://quay.io/repository/collaboratory/dockstore-tool-bamstats)
-[![Build Status](https://travis-ci.org/CancerCollaboratory/dockstore-tool-bamstats.svg)](https://travis-ci.org/CancerCollaboratory/dockstore-tool-bamstats)
 
 # dockstore-tool-bamstats
 
